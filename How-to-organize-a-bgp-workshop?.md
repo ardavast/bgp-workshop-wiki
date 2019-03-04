@@ -27,6 +27,7 @@
 * Ask the participants to first configure a single vlan and a single BGP session with one of the upstreams, then continue with the next router.
 * Advise everyone to start configuring IPv6 after they have successfully connected with all IPv4 peers
 * Have a laptop connected to a projector, displaying the output from one or more of the routers. I use a simple looking glass for this: https://github.com/hackman/bird-lg-perl
+
   This way eveyone can see if they are connected to the upstreams or if they are leaking the whole BGP table into the exchanges :)
 
 
