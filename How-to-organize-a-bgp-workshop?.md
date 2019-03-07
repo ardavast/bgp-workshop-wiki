@@ -5,7 +5,7 @@
 4. Create the event and share it with the world (NOG or RIPE mailing lists).
 5. Ask RIPE for temporary IPv4 and IPv6 allocations. For this you would need a sponsoring LIR.  
    HINT: I can always help with this, but do give me enough lead time (at least two weeks).
-6. Prepare a basic introductionary talk about BGP. Make sure you explain ASNs and why you can have a single AS originating prefixes from two or more different locations. You can also explain anycast.
+6. Prepare a basic introductory talk about BGP. Make sure you explain ASNs and why you can have a single AS originating prefixes from two or more different locations. You can also explain anycast.
 7. Generate files for each client/port. If possible, upload them somewhere or print them for the participants (you can use the gen-client-data.sh for this).
 
 # During the workshop
